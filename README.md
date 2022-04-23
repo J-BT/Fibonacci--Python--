@@ -1,5 +1,6 @@
-Fibonacci:
-----------
+Fibonacci (Python Programming: An Introduction to Computer Science,
+ 3rd Edition)
+
 
 Ce code permet de determiner la suite de Fibonacci
 de 1 jusqu'à n.
@@ -22,11 +23,7 @@ etc.
 En d'autre termes, on determine un n-ième element
 en additionnant les n-2èmes et n-1èmes elements.
 
-N.b : J'ai rédigé les commentaires en anglais car
-j'ai réalisé un des exercices de l'ouvrage suivant
-(voir ci-dessous) qui est écrit en anglais.
 
-'
-Python Programming: An Introduction to Computer Science,
- 3rd Edition
-'
+
+
+
